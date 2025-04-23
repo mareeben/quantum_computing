@@ -2,3 +2,4 @@ numpy~=2.2.4
 sympy~=1.13.3
 qiskit~=1.4.2
 qiskit-aer~=0.17.0
+qiskit_ibm_runtime~=0.37.0
